@@ -36,7 +36,7 @@ public class listex {
     }
 
     public static void main(String[] args) {
-        listex l = new listex();
+        listex l = new listex(); // Object
         l.add(10); // 0
         l.add(20); // 1
         int[] a = l.getList();
