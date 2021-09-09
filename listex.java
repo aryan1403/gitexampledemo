@@ -4,7 +4,7 @@ public class listex {
     int[] arr;
     int[] darr = new int[size*100];
 
-    int index = 0;
+    int index = 0; // index
 
     
     public void add(int value) {
