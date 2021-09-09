@@ -6,7 +6,6 @@ public class listex {
 
     int index = 0; // index
 
-    
     public void add(int value) {
         arr = new int[size];
         int counter = 0;
